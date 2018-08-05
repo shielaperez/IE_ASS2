@@ -1,0 +1,38 @@
+
+
+
+#include <iostream>
+
+using namespace std;
+int main()
+{
+
+    cout<<("How to cook Chicken Adobo")<<endl;
+    cout<<("Step 1. Prepare all the ingredients needed; vinegar, soy sauce, water, garlic, onions, ginger, pepper, oil and chicken")<<endl;
+    cout<<("Step 2. Heat pot and put oil")<<endl;
+    cout<<("Step 3. Place all the ingredients and mix well")<<endl;
+    cout<<("Step 4. Cover and bring to a boil over medium high heat")<<endl;
+    cout<<("Step 5. Reduce heat to medium low and simmer, stirring occassionally")<<endl;
+    cout<<("Step 6. Serve and Enjoy")<<endl;
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
